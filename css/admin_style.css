@@ -1,0 +1,12 @@
+.top_header{padding:10px;}
+.top_header.top_header_right span{margin-left:10px;}
+
+.top_header.profile{float:left;}
+.inlinediv {float: left}
+.inputdiv{margin-top:14px}
+.imginline{float: left;margin-right: 10px}
+.headerright{float:right;margin-right: 10px !important;}
+
+.clear{ clear: both;}
+.bottom_header{height:50px;background-color:#0068bb;padding:10px;color:#ffffff;font-size:22px;}
+
